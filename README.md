@@ -101,7 +101,8 @@ This analysis demonstrates the use of hierarchical product structures.
 
 19. What are the most common product combinations in a single transaction?
 20. Which 3-product combinations occur most frequently?
-21. This analysis helps identify cross-selling opportunities.
+
+This analysis helps identify cross-selling opportunities.
 
 ### G. Reporting Challenge
 Create a reusable monthly sales report summarizing:
