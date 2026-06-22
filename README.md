@@ -117,13 +117,16 @@ The goal is to build a single SQL reporting query that can generate reports for 
 
 ## Skills Demonstrated
 This project demonstrates practical SQL skills used in real-world data analysis:
-- relational data modeling
-- multi-table joins
-- aggregation and grouping
-- analytical SQL
-- hierarchical analysis
-- transaction analysis
-- business metric calculation
+- Relational data modeling
+- Multi-table joins
+- Aggregation and grouping
+- Common Table Expressions (CTEs)
+- Window functions
+- Ranking and contribution analysis
+- Product penetration analysis
+- Product bundling analysis
+- Hierarchical data analysis
+- Analytical SQL problem solving
 
 ## Tools Used
 - SQL (PostgreSQL / MySQL compatible)
