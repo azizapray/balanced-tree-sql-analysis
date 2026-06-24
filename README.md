@@ -105,15 +105,17 @@ This analysis demonstrates the use of hierarchical product structures.
 This analysis helps identify cross-selling opportunities.
 
 ### G. Reporting Challenge
-Create a reusable monthly sales report summarizing:
-- total revenue
-- total discount
-- total quantity sold
-- top selling products
-- revenue by category
-- revenue by segment
+To simulate a real-world business reporting workflow, a reusable monthly sales report was developed using transaction-level sales data.
 
-The goal is to build a single SQL reporting query that can generate reports for different months.
+The report provides:
+
+- Executive sales summary
+- Category performance analysis
+- Segment performance analysis
+- Product performance ranking
+- Customer purchasing behavior metrics
+
+This exercise focuses on transforming raw transactional data into business-oriented reporting outputs that could be consumed by stakeholders and management teams.
 
 ## Skills Demonstrated
 This project demonstrates practical SQL skills used in real-world data analysis:
